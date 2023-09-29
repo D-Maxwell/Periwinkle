@@ -205,7 +205,6 @@ div#content{
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Century Gothic";
   font-weight: bold;
   font-size: min(15vh,10vw);
   color: rgba(0, 0, 0, 0);
